@@ -24,7 +24,7 @@ const LANGUAGES = {
             "footer-repository-text": "You can check out the GitHub repository here:",
             "footer-repository-text-2": "herta_kuru repo"
         },
-        cardImage: "img/card_en.jpg"
+        cardImage: "images/card_en.jpg"
     }, "cn": {
         audioList: [
             "audio/cn/gululu.mp3",
@@ -43,7 +43,7 @@ const LANGUAGES = {
             "footer-repository-text": "源代码在此：",
             "footer-repository-text-2": "herta_kuru 仓库"
         },
-        cardImage: "img/card_cn.jpg"
+        cardImage: "images/card_cn.jpg"
     },
     "ja": {
         audioList: [
@@ -63,7 +63,7 @@ const LANGUAGES = {
             "footer-repository-text": "こちらはこのページGitHubリポジトリ:",
             "footer-repository-text-2": "herta_kuru リポジトリ"
         },
-        cardImage: "img/card_ja.jpg"
+        cardImage: "images/card_ja.jpg"
     },
     "kr": {
         audioList: [
@@ -83,7 +83,7 @@ const LANGUAGES = {
             "footer-repository-text": "여기 github 리 포지 토리가 있습니다:",
             "footer-repository-text-2": "herta_kuru 리 포지 토리"
         },
-        cardImage: "img/card_kr.jpg"
+        cardImage: "images/card_kr.jpg"
     }
 };
 
